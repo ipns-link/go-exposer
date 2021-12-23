@@ -1,2 +1,3 @@
-# go-exposer
-GOLANG edition of the original IPNS-Link bash exposer.
+# GOLANG Exposer
+
+This is a WIP and the first version is still to be released.
